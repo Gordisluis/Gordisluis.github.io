@@ -11,7 +11,7 @@ p {
 }
 
 .page-content {
-  width: 77.5%;
+  width: 85%;
   float: right;
 }
 
@@ -937,16 +937,16 @@ header {
   line-height: 80px;
   display: inline-block;
   text-align: center;
-  width: 150%;
+  width: 100%;
 }
 
 .footer p {
   margin-bottom: 0px;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 80px;
   color: #fff;
   letter-spacing: 0.5px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .footer p a {
